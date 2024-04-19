@@ -6,4 +6,4 @@ I already own a good and solid knowlegdes about these technologies, but this cou
 
 Project's UI https://www.figma.com/proto/Ql90a9Paa3HRqa4btWIGb5/Module-05?type=design&node-id=27-150&t=JyAyrEC2zgryY6F5-1&scaling=min-zoom&page-id=11%3A3&mode=design
 
-Technologies & tools used: FIGMA, Visual Studio Code, HTML, CSS, Git, Github, Responsive, NPM, clean-css.
+Technologies & tools used: FIGMA, Visual Studio Code, HTML, CSS, Git, JavaScript, Github, Responsive, NPM, clean-css.
